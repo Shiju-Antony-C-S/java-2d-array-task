@@ -37,11 +37,11 @@ public class twodimensionalarraytrianglematrix {
         }
 
         if (right) {
-            System.out.println("Right angled matrix");
+            System.out.println("Right angle matrix");
         } else if (left) {
-            System.out.println("Left angled matrix");
+            System.out.println("Left angle matrix");
         } else {
-            System.out.println("No angled matrix");
+            System.out.println("No angle matrix");
         }
 
         in.close();
